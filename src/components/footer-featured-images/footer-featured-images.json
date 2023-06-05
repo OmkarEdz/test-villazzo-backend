@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_footer_featured_images_footer_featured_images",
+  "info": {
+    "displayName": "FooterFeaturedImages",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "URL": {
+      "type": "string"
+    }
+  }
+}

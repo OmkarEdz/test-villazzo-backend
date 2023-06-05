@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_homepage_testinomial_homepage_testinomials",
+  "info": {
+    "displayName": "HomepageTestinomial",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "BackgroundImageURL": {
+      "type": "string"
+    },
+    "ClientReview1": {
+      "type": "text"
+    },
+    "ClientReview2": {
+      "type": "text"
+    },
+    "ClientReview3": {
+      "type": "text"
+    },
+    "ClientReview4": {
+      "type": "text"
+    },
+    "ClientReview5": {
+      "type": "text"
+    }
+  }
+}

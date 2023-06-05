@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_shared_sub_menus",
+  "info": {
+    "displayName": "subMenu",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "URL": {
+      "type": "string"
+    },
+    "AdvancedLink": {
+      "type": "string"
+    },
+    "AdvancedLinkURL": {
+      "type": "string"
+    },
+    "ShowAdvancedLink": {
+      "type": "enumeration",
+      "enum": [
+        "Yes ",
+        "No"
+      ],
+      "default": "No"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_bookvilazzzosection_book_with_villazzos",
+  "info": {
+    "displayName": "BookWithVillazzo",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "FindOutLink": {
+      "type": "string"
+    },
+    "BookItemTitle1": {
+      "type": "text"
+    },
+    "BookItemContent1": {
+      "type": "text"
+    },
+    "BookItemTitle2": {
+      "type": "text"
+    },
+    "BookItemTitle3": {
+      "type": "text"
+    },
+    "BookItemContent3": {
+      "type": "text"
+    },
+    "BookItemContent2": {
+      "type": "text"
+    },
+    "BookItemIconURL3": {
+      "type": "string"
+    },
+    "BookItemIconURL2": {
+      "type": "string"
+    },
+    "BookItemIconURL1": {
+      "type": "string"
+    }
+  }
+}

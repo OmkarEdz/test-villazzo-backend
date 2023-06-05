@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_book_item_book_items",
+  "info": {
+    "displayName": "BookItem",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "text"
+    }
+  }
+}
