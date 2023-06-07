@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_more_rental_villa_section_more_rental_villa_sections",
+  "info": {
+    "displayName": "MoreRentalVillaSection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Subheading": {
+      "type": "string"
+    },
+    "Image": {
+      "type": "string"
+    },
+    "EndHeading": {
+      "type": "string"
+    },
+    "EndSubheading": {
+      "type": "text"
+    },
+    "URL": {
+      "type": "string"
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_tabbing_items_tabbing_items",
+  "info": {
+    "displayName": "TabbingItems",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "TabHead": {
+      "type": "string"
+    },
+    "TabImage": {
+      "type": "string"
+    },
+    "TabContent": {
+      "type": "text"
+    }
+  }
+}

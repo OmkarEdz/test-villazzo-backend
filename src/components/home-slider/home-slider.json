@@ -1,0 +1,76 @@
+{
+  "collectionName": "components_home_slider_home_sliders",
+  "info": {
+    "displayName": "HomeSlider",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "FirstSlideHead": {
+      "type": "string"
+    },
+    "FirstSlideContent": {
+      "type": "string"
+    },
+    "FirstSlideLink": {
+      "type": "string"
+    },
+    "SecSlideContent": {
+      "type": "string"
+    },
+    "ThirdSlideContent": {
+      "type": "string"
+    },
+    "SecSlideImg": {
+      "type": "string"
+    },
+    "FirstSlideImg": {
+      "type": "string"
+    },
+    "ThirdSlideImage": {
+      "type": "string"
+    },
+    "FourthSlideContent": {
+      "type": "string"
+    },
+    "FourthSlideImage": {
+      "type": "string"
+    },
+    "FifthSlideContent": {
+      "type": "string"
+    },
+    "FifthSlideImage": {
+      "type": "string"
+    },
+    "SixthSlideContent": {
+      "type": "string"
+    },
+    "SixthSlideImage": {
+      "type": "string"
+    },
+    "SeventhSlideContent": {
+      "type": "string"
+    },
+    "SeventhSlideImage": {
+      "type": "string"
+    },
+    "EighthSlideContent": {
+      "type": "string"
+    },
+    "EighthSlideImage": {
+      "type": "string"
+    },
+    "NinthSlideContent": {
+      "type": "string"
+    },
+    "NinthSlideImage": {
+      "type": "string"
+    },
+    "TenthSlideContent": {
+      "type": "string"
+    },
+    "TenthSlideImage": {
+      "type": "string"
+    }
+  }
+}

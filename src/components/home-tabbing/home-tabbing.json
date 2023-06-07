@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_home_tabbing_home_tabbings",
+  "info": {
+    "displayName": "HomeTabbing",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "text"
+    },
+    "ButtonLink": {
+      "type": "string"
+    }
+  }
+}

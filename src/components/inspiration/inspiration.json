@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_inspiration_inspirations",
+  "info": {
+    "displayName": "Inspiration",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "BoxContent1": {
+      "type": "text"
+    },
+    "BoxImage1": {
+      "type": "string"
+    },
+    "BoxContent2": {
+      "type": "text"
+    },
+    "BoxImage2": {
+      "type": "string"
+    },
+    "BoxContent3": {
+      "type": "text"
+    },
+    "BoxImage3": {
+      "type": "string"
+    },
+    "BoxContent4": {
+      "type": "text"
+    },
+    "BoxImage4": {
+      "type": "string"
+    }
+  }
+}

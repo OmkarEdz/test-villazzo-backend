@@ -1,0 +1,42 @@
+{
+  "collectionName": "components_home_gallery_home_galleries",
+  "info": {
+    "displayName": "HomeGallery"
+  },
+  "options": {},
+  "attributes": {
+    "FirstRowImage1": {
+      "type": "string"
+    },
+    "FirstRowImage2": {
+      "type": "string"
+    },
+    "FirstRowImage3": {
+      "type": "string"
+    },
+    "FirstRowHead": {
+      "type": "string"
+    },
+    "FirstRowContent": {
+      "type": "string"
+    },
+    "FirstRowURL": {
+      "type": "string"
+    },
+    "SecRowImage1": {
+      "type": "string"
+    },
+    "SecRowImage2": {
+      "type": "string"
+    },
+    "SecRowHead": {
+      "type": "string"
+    },
+    "SecRowContent": {
+      "type": "string"
+    },
+    "SecRowURL": {
+      "type": "string"
+    }
+  }
+}

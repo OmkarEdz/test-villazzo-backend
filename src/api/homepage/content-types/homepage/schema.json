@@ -26,6 +26,36 @@
       "type": "component",
       "repeatable": false,
       "component": "homepage-testinomial.homepage-testinomial"
+    },
+    "Inspiration": {
+      "type": "component",
+      "repeatable": false,
+      "component": "inspiration.inspiration"
+    },
+    "MoreVillaSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "more-rental-villa-section.more-rental-villa-section"
+    },
+    "HomeGallery": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home-gallery.home-gallery"
+    },
+    "HomeSlider": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home-slider.home-slider"
+    },
+    "HomeTabbing": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home-tabbing.home-tabbing"
+    },
+    "HomeTabs": {
+      "type": "component",
+      "repeatable": true,
+      "component": "tabbing-items.tabbing-items"
     }
   }
 }
