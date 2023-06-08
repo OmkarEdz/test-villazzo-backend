@@ -23,8 +23,8 @@ module.exports = ({ env }) => ({
     connection: {
       host: env('PGHOST', '0.0.0.0'),
       port: env.int('PGPORT', 6582),
-      database: env('PGDATABASE', 'railway'),
-      user: env('PGUSER', 'postgres'),
+      database: env('PGDATABASE', 'strapi'),
+      user: env('PGUSER', 'strapi'),
       password: env('PGPASSWORD', 'password'),
       ssl: env.bool(true),
     },
