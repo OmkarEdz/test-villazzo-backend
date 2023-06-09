@@ -44,8 +44,9 @@
     "template": "@strapi/template-blog@^1.0.0",
     "starter": "@strapi/starter-next-blog"
   },
+  "engineStrict": true,
   "engines": {
-    "node": "^16.0.0",
+    "node": "v16.18.1",
     "npm": "^6.0.0"
   },
   "license": "MIT",
