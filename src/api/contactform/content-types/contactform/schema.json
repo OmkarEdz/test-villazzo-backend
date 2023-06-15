@@ -26,6 +26,12 @@
     },
     "message": {
       "type": "text"
+    },
+    "checkInDate": {
+      "type": "string"
+    },
+    "checkOutDate": {
+      "type": "string"
     }
   }
 }
