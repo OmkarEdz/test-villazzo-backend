@@ -16,6 +16,13 @@
     },
     "URL": {
       "type": "string"
+    },
+    "MobImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
